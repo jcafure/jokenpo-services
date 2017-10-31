@@ -1,0 +1,11 @@
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/model/Resultado.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/service/IPartidaService.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/service/IResultadoService.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/model/Jokenpo.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/domain/Jogada.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/exception/JogadaException.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/controller/JokenpoController.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/service/impl/ResultadoServiceImp.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/com/jokenpo/service/service/ServiceJokenpoApplication.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/model/Jogador.java
+/home/jcafure/Documentos/GIT/Jokenpo/jokenpo-services/jokenpo-service/src/main/java/service/impl/PartidaServiceImp.java

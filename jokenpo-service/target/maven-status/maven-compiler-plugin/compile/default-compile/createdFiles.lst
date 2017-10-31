@@ -1,0 +1,12 @@
+exception/JogadaException.class
+service/impl/ResultadoServiceImp.class
+domain/Jogada.class
+controller/JokenpoController.class
+model/Jokenpo.class
+service/IResultadoService.class
+model/Jogador.class
+com/jokenpo/service/service/ServiceJokenpoApplication.class
+service/IPartidaService.class
+domain/Jogada$1.class
+model/Resultado.class
+service/impl/PartidaServiceImp.class

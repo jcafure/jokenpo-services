@@ -7,14 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jokenpo-config-server" />
-        <module name="jokenpo-eureka-server" />
-        <module name="service jokenpo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jokenpo-config-server" target="1.8" />
-      <module name="jokenpo-eureka-server" target="1.8" />
-      <module name="service jokenpo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

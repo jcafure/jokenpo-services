@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jokenpo-config-server.iml" filepath="$PROJECT_DIR$/jokenpo-config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../jokenpo-eureka-server/jokenpo-eureka-server.iml" filepath="$PROJECT_DIR$/../jokenpo-eureka-server/jokenpo-eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../service jokenpo/service jokenpo.iml" filepath="$PROJECT_DIR$/../service jokenpo/service jokenpo.iml" />
     </modules>
   </component>
 </project>
